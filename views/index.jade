@@ -1,0 +1,27 @@
+!!! 5
+html(lang='en')
+	head
+		title= title
+		script(type='text/javascript', src='http://yui.yahooapis.com/3.4.1/build/yui/yui-min.js', charset='utf-8')
+		script(type='text/javascript', src='/ces.js', charset='utf-8')
+		script(type='text/javascript', src='socket.io/socket.io.js', charset='utf-8')
+		link(rel='stylesheet', href='/ces.css', type='text/css')
+	body
+		header
+			a connectedtv 
+		div#all
+			div#left
+				div#chart
+			div#middle
+				div#channel
+					h2#virtualChannel
+					h2#callsign
+				div#captions
+			div#right
+			div#words
+				h3 
+			div#urls
+				h3
+		footer
+			a(href='http://flickr.com/photos/rheaney/') rheaney
+		

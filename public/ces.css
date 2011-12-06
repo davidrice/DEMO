@@ -1,0 +1,98 @@
+body{
+	padding:0px;
+	margin:0px;
+	width:1280px;
+	height:878px;
+	overflow:hidden;
+	top:123px; 
+	background-image:url(''), url('tv.jpg');
+	background-repeat:no-repeat;
+}
+#all {
+	width: 1280px;
+	overflow: hidden;
+}
+#left {
+	float:left;
+	width:235px;
+	height:475px;
+	display:block;
+}
+span.word{ 
+	padding:.25em;
+}
+span.stop{
+	color:gray;
+}
+span.boolean {
+	font-size:150%;
+}
+#middle{
+	float:left;
+	width: 790px;
+	height: 475px;
+	padding: 10px;
+	color: white;
+	background-size: 810px 495px;
+	overflow:hidden;
+}
+#channel {
+	width:120px;
+	height: 100px;
+	float:right;
+	text-align:right;
+}
+#captions {
+	width:830px;
+	height: 100px;
+	position:relative;
+	margin-top:375px;
+	overflow:auto;	
+}
+#right {
+	width:235px;
+	height:475px;
+	display:inline-block;	
+	float:left;
+}
+#words {
+	float:left;
+	display:inline-block;
+	padding: 15px;
+	font-size: 10pt;
+	height: 112px;
+	width: 605px; 
+	color: #F0Fbbb;
+	overflow:hidden;
+}
+#words h3 {
+	padding:0;
+}
+#urls {
+	float:left;
+	display:inline-block;
+	padding: 15px;
+	font-size: 10pt;
+	height: 112px;
+	width: 605px;
+	color: #F0Fbbb;
+}
+#url h3 {
+	padding:0px;
+}
+header {
+	height:200px;
+	padding:10px;
+}
+footer {
+	background-color: black;
+	height: 50px;
+	padding:10px;
+	width:100%;
+	float:right;
+}
+a {
+	text-decoration:none;
+	color: white;
+}
+

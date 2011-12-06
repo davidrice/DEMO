@@ -1,0 +1,959 @@
+SCANNING: 861000000 (us-irc:135, us-cable:135)
+LOCK: none (ss=96 snq=0 seq=0)
+SCANNING: 859750000 (us-hrc:135)
+LOCK: none (ss=95 snq=0 seq=0)
+SCANNING: 855000000 (us-irc:134, us-cable:134)
+LOCK: none (ss=36 snq=0 seq=0)
+SCANNING: 853750000 (us-hrc:134)
+LOCK: none (ss=35 snq=0 seq=0)
+SCANNING: 849000000 (us-irc:133, us-cable:133)
+LOCK: none (ss=38 snq=0 seq=0)
+SCANNING: 847750000 (us-hrc:133)
+LOCK: none (ss=74 snq=0 seq=0)
+SCANNING: 843000000 (us-irc:132, us-cable:132)
+LOCK: qam256 (ss=86 snq=90 seq=100)
+TSID: 0x2A1E
+PROGRAM 1: 4.2 KRON HD
+PROGRAM 5: 44.1 KBCW-DT
+SCANNING: 837000000 (us-irc:131, us-cable:131)
+LOCK: qam256 (ss=86 snq=87 seq=100)
+TSID: 0x2A1D
+PROGRAM 8440: 0 (encrypted)
+PROGRAM 8441: 0 (encrypted)
+SCANNING: 831000000 (us-irc:130, us-cable:130)
+LOCK: qam256 (ss=85 snq=85 seq=100)
+TSID: 0x2A1A
+PROGRAM 1: 0 (encrypted)
+PROGRAM 2: 0 (encrypted)
+PROGRAM 3: 0 (encrypted)
+PROGRAM 4: 0 (encrypted)
+PROGRAM 5: 0 (encrypted)
+PROGRAM 6: 0 (encrypted)
+PROGRAM 7: 0 (encrypted)
+PROGRAM 8: 0 (encrypted)
+PROGRAM 9: 0 (encrypted)
+PROGRAM 10: 0 (encrypted)
+PROGRAM 11: 0 (encrypted)
+PROGRAM 14: 0 (encrypted)
+PROGRAM 15: 0 (encrypted)
+PROGRAM 70: 0 (encrypted)
+PROGRAM 71: 0 (encrypted)
+PROGRAM 72: 0 (encrypted)
+SCANNING: 825000000 (us-irc:129, us-cable:129)
+LOCK: qam256 (ss=85 snq=88 seq=100)
+TSID: 0x29BE
+SCANNING: 819000000 (us-irc:128, us-cable:128)
+LOCK: qam256 (ss=86 snq=93 seq=100)
+TSID: 0x2A19
+PROGRAM 1: 0 (encrypted)
+PROGRAM 3: 0 (encrypted)
+PROGRAM 5: 0 (encrypted)
+PROGRAM 7: 0 (encrypted)
+PROGRAM 9: 0 (encrypted)
+PROGRAM 11: 0 (encrypted)
+PROGRAM 13: 0 (encrypted)
+PROGRAM 15: 0 (encrypted)
+PROGRAM 17: 0 (encrypted)
+PROGRAM 19: 0 (encrypted)
+PROGRAM 20: 0 (encrypted)
+SCANNING: 813000000 (us-irc:127, us-cable:127)
+LOCK: qam256 (ss=87 snq=92 seq=100)
+TSID: 0x29BC
+PROGRAM 1: 0 (encrypted)
+PROGRAM 2: 0 (encrypted)
+PROGRAM 4: 0
+SCANNING: 807000000 (us-irc:126, us-cable:126)
+LOCK: qam256 (ss=86 snq=91 seq=100)
+TSID: 0x29BB
+PROGRAM 1: 36.1 KICU HD
+PROGRAM 2: 0 (encrypted)
+PROGRAM 3: 36.2 KICU SD
+SCANNING: 801000000 (us-irc:125, us-cable:125)
+LOCK: qam256 (ss=88 snq=93 seq=100)
+TSID: 0x29BA
+PROGRAM 1: 0 (encrypted)
+PROGRAM 2: 0 (encrypted)
+PROGRAM 3: 0 (encrypted)
+SCANNING: 795000000 (us-irc:124, us-cable:124)
+LOCK: none (ss=38 snq=0 seq=0)
+SCANNING: 793750000 (us-hrc:124)
+LOCK: none (ss=70 snq=0 seq=0)
+SCANNING: 789000000 (us-irc:123, us-cable:123)
+LOCK: qam256 (ss=85 snq=84 seq=100)
+TSID: 0x2822
+PROGRAM 1: 0 (encrypted)
+PROGRAM 2: 0 (encrypted)
+PROGRAM 3: 0 (encrypted)
+SCANNING: 783000000 (us-irc:122, us-cable:122)
+LOCK: qam256 (ss=86 snq=90 seq=100)
+TSID: 0x2821
+PROGRAM 1: 5.1 KPIX-DT
+PROGRAM 2: 2.1 KTVU-HD
+PROGRAM 3: 2.2 KTVU-SD
+SCANNING: 777000000 (us-irc:121, us-cable:121)
+LOCK: none (ss=39 snq=0 seq=0)
+SCANNING: 775750000 (us-hrc:121)
+LOCK: none (ss=82 snq=0 seq=0)
+SCANNING: 771000000 (us-irc:120, us-cable:120)
+LOCK: qam256 (ss=88 snq=47 seq=100)
+TSID: 0x280B
+PROGRAM 1: 0
+PROGRAM 2: 0
+PROGRAM 3: 0 (encrypted)
+PROGRAM 5: 0
+PROGRAM 6: 0
+PROGRAM 7: 0
+PROGRAM 8: 0
+PROGRAM 10: 0
+PROGRAM 11: 0
+PROGRAM 12: 0
+SCANNING: 765000000 (us-irc:119, us-cable:119)
+LOCK: qam256 (ss=87 snq=90 seq=100)
+TSID: 0x2A97
+SCANNING: 759000000 (us-irc:118, us-cable:118)
+LOCK: qam256 (ss=88 snq=91 seq=100)
+TSID: 0x2A96
+SCANNING: 753000000 (us-irc:117, us-cable:117)
+LOCK: qam256 (ss=93 snq=100 seq=100)
+SCANNING: 747000000 (us-irc:116, us-cable:116)
+LOCK: qam256 (ss=94 snq=100 seq=100)
+SCANNING: 741000000 (us-irc:115, us-cable:115)
+LOCK: qam256 (ss=94 snq=100 seq=100)
+SCANNING: 735000000 (us-irc:114, us-cable:114)
+LOCK: qam256 (ss=95 snq=100 seq=100)
+SCANNING: 729000000 (us-irc:113, us-cable:113)
+LOCK: qam256 (ss=94 snq=100 seq=100)
+SCANNING: 723000000 (us-irc:112, us-cable:112)
+LOCK: qam256 (ss=95 snq=100 seq=100)
+SCANNING: 717000000 (us-irc:111, us-cable:111)
+LOCK: qam256 (ss=95 snq=100 seq=100)
+SCANNING: 711000000 (us-irc:110, us-cable:110)
+LOCK: none (ss=41 snq=0 seq=0)
+SCANNING: 709750000 (us-hrc:110)
+LOCK: none (ss=76 snq=0 seq=0)
+SCANNING: 705000000 (us-irc:109, us-cable:109)
+LOCK: qam256 (ss=95 snq=100 seq=100)
+SCANNING: 699000000 (us-irc:108, us-cable:108)
+LOCK: qam256 (ss=93 snq=100 seq=100)
+TSID: 0x130C
+SCANNING: 693000000 (us-irc:107, us-cable:107)
+LOCK: qam256 (ss=93 snq=100 seq=100)
+TSID: 0x130B
+PROGRAM 11: 0 (encrypted)
+SCANNING: 687000000 (us-irc:106, us-cable:106)
+LOCK: qam256 (ss=93 snq=100 seq=100)
+TSID: 0x130A
+SCANNING: 681000000 (us-irc:105, us-cable:105)
+LOCK: qam256 (ss=93 snq=100 seq=100)
+TSID: 0x1309
+PROGRAM 5: 0 (encrypted)
+SCANNING: 675000000 (us-irc:104, us-cable:104)
+LOCK: qam256 (ss=94 snq=100 seq=100)
+TSID: 0x0DAC
+PROGRAM 10: 0 (encrypted)
+SCANNING: 669000000 (us-irc:103, us-cable:103)
+LOCK: qam256 (ss=95 snq=100 seq=100)
+TSID: 0x0DAB
+PROGRAM 7: 0 (encrypted)
+SCANNING: 663000000 (us-irc:102, us-cable:102)
+LOCK: qam256 (ss=94 snq=100 seq=100)
+TSID: 0x0DA6
+SCANNING: 657000000 (us-irc:101, us-cable:101)
+LOCK: qam256 (ss=94 snq=100 seq=100)
+TSID: 0x0DA5
+PROGRAM 8: 0 (encrypted)
+SCANNING: 651000000 (us-irc:100, us-cable:100)
+LOCK: qam256 (ss=89 snq=95 seq=100)
+TSID: 0x2A1C
+PROGRAM 5067: 0 (encrypted)
+PROGRAM 5068: 0 (encrypted)
+PROGRAM 5069: 0 (encrypted)
+SCANNING: 645000000 (us-irc:94, us-cable:94)
+LOCK: qam256 (ss=89 snq=85 seq=100)
+TSID: 0x2A20
+PROGRAM 1: 0
+PROGRAM 2: 0
+PROGRAM 3: 0
+PROGRAM 4: 0
+PROGRAM 5: 0 (encrypted)
+PROGRAM 6: 0
+PROGRAM 7: 0
+PROGRAM 8: 0
+PROGRAM 9: 0
+PROGRAM 10: 0
+PROGRAM 11: 0
+PROGRAM 12: 0 (encrypted)
+PROGRAM 13: 0
+PROGRAM 14: 0
+PROGRAM 61: 0 (no data)
+SCANNING: 639000000 (us-irc:93, us-cable:93)
+LOCK: qam256 (ss=91 snq=97 seq=100)
+TSID: 0x2A1F
+PROGRAM 1: 0 (encrypted)
+PROGRAM 2: 0 (encrypted)
+PROGRAM 3: 0 (encrypted)
+PROGRAM 4: 0 (encrypted)
+PROGRAM 5: 0 (encrypted)
+PROGRAM 6: 0 (encrypted)
+PROGRAM 7: 0 (encrypted)
+PROGRAM 9: 0 (encrypted)
+PROGRAM 10: 0 (encrypted)
+PROGRAM 11: 0 (encrypted)
+PROGRAM 12: 0 (encrypted)
+PROGRAM 14: 0 (encrypted)
+PROGRAM 7349: 0 (encrypted)
+SCANNING: 633000000 (us-irc:92, us-cable:92)
+LOCK: qam256 (ss=89 snq=92 seq=100)
+TSID: 0x281A
+PROGRAM 1: 11.1 KNTV-HD
+PROGRAM 2: 11.2 NBC Wea
+PROGRAM 3: 11.3 KNTV US
+PROGRAM 6: 65.1 ION_KKP
+SCANNING: 627000000 (us-irc:91, us-cable:91)
+LOCK: qam256 (ss=89 snq=92 seq=100)
+TSID: 0x2819
+PROGRAM 1: 222.1 KRCB
+PROGRAM 2: 32.1 KMTP
+PROGRAM 3: 38.1 KCNS
+PROGRAM 4: 260.1 KCSM
+PROGRAM 5: 266.1 KFSF
+PROGRAM 6: 68.1 KTLN
+PROGRAM 8: 9.3 WORLD
+PROGRAM 9: 9.4 V-ME
+PROGRAM 10: 9.5 KIDS
+SCANNING: 621000000 (us-irc:90, us-cable:90)
+LOCK: qam256 (ss=89 snq=92 seq=100)
+TSID: 0x2818
+PROGRAM 1: 0 (encrypted)
+PROGRAM 2: 0 (encrypted)
+PROGRAM 3: 0 (encrypted)
+PROGRAM 4: 0 (encrypted)
+PROGRAM 5: 0 (encrypted)
+PROGRAM 6: 0 (encrypted)
+PROGRAM 7: 0 (encrypted)
+PROGRAM 8: 0 (encrypted)
+PROGRAM 9: 0 (encrypted)
+PROGRAM 11: 0 (encrypted)
+PROGRAM 12: 0 (encrypted)
+PROGRAM 13: 0 (encrypted)
+SCANNING: 615000000 (us-irc:89, us-cable:89)
+LOCK: qam256 (ss=90 snq=93 seq=100)
+TSID: 0x2817
+PROGRAM 1: 0 (encrypted)
+PROGRAM 2: 0 (encrypted)
+PROGRAM 3: 0 (encrypted)
+PROGRAM 4: 0 (encrypted)
+PROGRAM 6: 0 (encrypted)
+PROGRAM 7: 0 (encrypted)
+PROGRAM 8: 0 (encrypted)
+PROGRAM 9: 0 (encrypted)
+PROGRAM 10: 0 (encrypted)
+PROGRAM 12: 0 (encrypted)
+PROGRAM 13: 0 (encrypted)
+PROGRAM 14: 0 (encrypted)
+SCANNING: 609000000 (us-irc:88, us-cable:88)
+LOCK: qam256 (ss=92 snq=98 seq=100)
+TSID: 0x2A93
+PROGRAM 1: 0 (encrypted)
+PROGRAM 2: 0 (encrypted)
+PROGRAM 3: 0 (encrypted)
+SCANNING: 603000000 (us-irc:87, us-cable:87)
+LOCK: qam256 (ss=91 snq=96 seq=100)
+TSID: 0x2A92
+SCANNING: 597000000 (us-irc:86, us-cable:86)
+LOCK: qam256 (ss=90 snq=96 seq=100)
+TSID: 0x2816
+PROGRAM 1: 0 (encrypted)
+PROGRAM 2: 0 (encrypted)
+PROGRAM 3: 0 (encrypted)
+PROGRAM 4: 0 (encrypted)
+PROGRAM 5: 0 (encrypted)
+PROGRAM 6: 0 (encrypted)
+PROGRAM 7: 0 (encrypted)
+PROGRAM 8: 0 (encrypted)
+PROGRAM 9: 0
+PROGRAM 11: 0
+PROGRAM 12: 0 (encrypted)
+PROGRAM 13: 0 (encrypted)
+PROGRAM 14: 0 (encrypted)
+PROGRAM 15: 0 (encrypted)
+SCANNING: 591000000 (us-irc:85, us-cable:85)
+LOCK: qam256 (ss=90 snq=93 seq=100)
+TSID: 0x2815
+PROGRAM 1: 0 (encrypted)
+PROGRAM 2: 0 (encrypted)
+PROGRAM 3: 0 (encrypted)
+PROGRAM 4: 0 (encrypted)
+PROGRAM 5: 0 (encrypted)
+PROGRAM 6: 0 (encrypted)
+PROGRAM 7: 0 (encrypted)
+PROGRAM 9: 0 (encrypted)
+PROGRAM 10: 0 (encrypted)
+PROGRAM 11: 0 (encrypted)
+PROGRAM 12: 0 (encrypted)
+PROGRAM 13: 0 (encrypted)
+PROGRAM 70: 0 (encrypted)
+SCANNING: 585000000 (us-irc:84, us-cable:84)
+LOCK: qam256 (ss=91 snq=95 seq=100)
+TSID: 0x2814
+PROGRAM 1: 211.1 KNTV
+PROGRAM 2: 236.1 KICU
+PROGRAM 3: 248.1 KSTS
+PROGRAM 4: 254.1 KTEH
+PROGRAM 5: 265.1 KKPX
+PROGRAM 6: 0 (encrypted)
+PROGRAM 7: 0 (encrypted)
+PROGRAM 8: 0 (encrypted)
+PROGRAM 9: 0 (encrypted)
+PROGRAM 10: 0 (encrypted)
+PROGRAM 11: 0 (encrypted)
+SCANNING: 579000000 (us-irc:83, us-cable:83)
+LOCK: qam256 (ss=91 snq=97 seq=100)
+TSID: 0x2813
+PROGRAM 1: 0 (encrypted)
+PROGRAM 2: 0 (encrypted)
+PROGRAM 3: 0 (encrypted)
+PROGRAM 4: 0 (encrypted)
+PROGRAM 5: 0 (encrypted)
+PROGRAM 6: 0 (encrypted)
+PROGRAM 7: 0 (encrypted)
+PROGRAM 8: 0 (encrypted)
+PROGRAM 9: 0 (encrypted)
+PROGRAM 11: 0 (encrypted)
+PROGRAM 70: 0 (encrypted)
+SCANNING: 573000000 (us-irc:82, us-cable:82)
+LOCK: none (ss=39 snq=0 seq=0)
+SCANNING: 571750000 (us-hrc:82)
+LOCK: none (ss=40 snq=0 seq=0)
+SCANNING: 567000000 (us-irc:81, us-cable:81)
+LOCK: none (ss=43 snq=0 seq=0)
+SCANNING: 565750000 (us-hrc:81)
+LOCK: none (ss=74 snq=0 seq=0)
+SCANNING: 561000000 (us-irc:80, us-cable:80)
+LOCK: qam256 (ss=95 snq=100 seq=100)
+TSID: 0x2820
+PROGRAM 1: 7.1 KGO-HD
+PROGRAM 2: 9.1 KQED-HD
+PROGRAM 3: 9.6 LIF/ENC
+PROGRAM 7: 7.2 LIVWELL
+PROGRAM 8: 7.3 LWSD
+PROGRAM 81: 0 (control)
+SCANNING: 555000000 (us-irc:79, us-cable:79)
+LOCK: qam256 (ss=93 snq=98 seq=100)
+TSID: 0x281F
+PROGRAM 5010: 0 (encrypted)
+PROGRAM 5011: 0 (encrypted)
+PROGRAM 5012: 0 (encrypted)
+SCANNING: 549000000 (us-irc:78, us-cable:78)
+LOCK: qam256 (ss=93 snq=98 seq=100)
+TSID: 0x2B85
+PROGRAM 5049: 0 (encrypted)
+PROGRAM 5050: 0 (encrypted)
+PROGRAM 5051: 0 (encrypted)
+SCANNING: 543000000 (us-irc:77, us-cable:77)
+LOCK: qam256 (ss=93 snq=100 seq=100)
+TSID: 0x2B84
+PROGRAM 5040: 0 (encrypted)
+PROGRAM 5041: 0 (encrypted)
+PROGRAM 5042: 0 (encrypted)
+SCANNING: 537000000 (us-irc:76, us-cable:76)
+LOCK: none (ss=94 snq=0 seq=0)
+SCANNING: 535750000 (us-hrc:76)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 531000000 (us-irc:75, us-cable:75)
+LOCK: none (ss=98 snq=0 seq=0)
+SCANNING: 529750000 (us-hrc:75)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 525000000 (us-irc:74, us-cable:74)
+LOCK: qam256 (ss=91 snq=92 seq=100)
+TSID: 0x2ADB
+PROGRAM 8188: 0 (encrypted)
+PROGRAM 8189: 0 (encrypted)
+SCANNING: 519000000 (us-irc:73, us-cable:73)
+LOCK: qam256 (ss=92 snq=90 seq=100)
+TSID: 0x2ADA
+PROGRAM 1: 0 (encrypted)
+PROGRAM 2: 0 (encrypted)
+SCANNING: 513000000 (us-irc:72, us-cable:72)
+LOCK: qam256 (ss=92 snq=99 seq=100)
+TSID: 0x2BA0
+PROGRAM 7378: 0 (encrypted)
+PROGRAM 7379: 0 (encrypted)
+PROGRAM 7380: 0 (encrypted)
+PROGRAM 7381: 0 (encrypted)
+PROGRAM 7382: 0 (encrypted)
+PROGRAM 7383: 0 (encrypted)
+PROGRAM 7384: 0 (encrypted)
+PROGRAM 7385: 0 (encrypted)
+PROGRAM 7386: 0 (encrypted)
+PROGRAM 7387: 0 (encrypted)
+SCANNING: 507000000 (us-irc:71, us-cable:71)
+LOCK: qam256 (ss=91 snq=93 seq=100)
+TSID: 0x2B8A
+PROGRAM 1301: 0 (encrypted)
+PROGRAM 1302: 0 (encrypted)
+PROGRAM 1303: 0 (encrypted)
+PROGRAM 1304: 0 (encrypted)
+PROGRAM 1305: 0 (encrypted)
+PROGRAM 1306: 0 (encrypted)
+PROGRAM 1307: 0 (encrypted)
+PROGRAM 1308: 0 (encrypted)
+PROGRAM 1309: 0 (encrypted)
+PROGRAM 1310: 0 (encrypted)
+PROGRAM 1311: 0 (encrypted)
+PROGRAM 1312: 0 (encrypted)
+PROGRAM 1313: 0 (encrypted)
+PROGRAM 1314: 0 (encrypted)
+SCANNING: 501000000 (us-irc:70, us-cable:70)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 499750000 (us-hrc:70)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 495000000 (us-irc:69, us-cable:69)
+LOCK: qam256 (ss=90 snq=98 seq=100)
+TSID: 0x2A94
+PROGRAM 1: 0 (encrypted)
+PROGRAM 4: 0 (encrypted)
+PROGRAM 5: 0 (encrypted)
+PROGRAM 6: 0 (encrypted)
+PROGRAM 7: 0 (encrypted)
+PROGRAM 8: 0 (encrypted)
+PROGRAM 9: 0 (encrypted)
+PROGRAM 10: 0 (encrypted)
+PROGRAM 11: 0 (encrypted)
+PROGRAM 12: 0 (encrypted)
+PROGRAM 13: 0
+PROGRAM 14: 0 (encrypted)
+PROGRAM 15: 0 (encrypted)
+PROGRAM 70: 0 (encrypted)
+SCANNING: 489000000 (us-irc:68, us-cable:68)
+LOCK: qam256 (ss=91 snq=97 seq=100)
+TSID: 0x2B89
+PROGRAM 8224: 0 (encrypted)
+PROGRAM 8225: 0 (encrypted)
+PROGRAM 8226: 0 (encrypted)
+SCANNING: 483000000 (us-irc:67, us-cable:67)
+LOCK: qam256 (ss=92 snq=100 seq=100)
+TSID: 0x2B88
+SCANNING: 477000000 (us-irc:66, us-cable:66)
+LOCK: qam256 (ss=90 snq=95 seq=100)
+TSID: 0x2B87
+PROGRAM 8620: 0 (encrypted)
+PROGRAM 8621: 0 (encrypted)
+SCANNING: 471000000 (us-irc:65, us-cable:65)
+LOCK: qam256 (ss=90 snq=92 seq=100)
+TSID: 0x2B86
+PROGRAM 8170: 0 (encrypted)
+PROGRAM 8171: 0
+PROGRAM 8172: 0 (encrypted)
+PROGRAM 8173: 0 (encrypted)
+SCANNING: 465000000 (us-irc:64, us-cable:64)
+LOCK: qam256 (ss=92 snq=96 seq=100)
+TSID: 0x2B54
+PROGRAM 1601: 0 (encrypted)
+PROGRAM 1602: 0 (encrypted)
+PROGRAM 1603: 0 (encrypted)
+PROGRAM 1604: 0 (encrypted)
+PROGRAM 1605: 0 (encrypted)
+PROGRAM 1606: 0 (encrypted)
+PROGRAM 1607: 0 (encrypted)
+PROGRAM 1608: 0 (encrypted)
+PROGRAM 1609: 0 (encrypted)
+PROGRAM 1610: 0 (encrypted)
+PROGRAM 1611: 0 (encrypted)
+PROGRAM 1612: 0 (encrypted)
+PROGRAM 1613: 0 (encrypted)
+PROGRAM 1614: 0 (encrypted)
+SCANNING: 459000000 (us-irc:63, us-cable:63)
+LOCK: qam256 (ss=92 snq=96 seq=100)
+TSID: 0x2B53
+PROGRAM 7450: 0 (encrypted)
+PROGRAM 7451: 0 (encrypted)
+PROGRAM 7453: 0 (encrypted)
+PROGRAM 7454: 0
+PROGRAM 7456: 0
+SCANNING: 453000000 (us-irc:62, us-cable:62)
+LOCK: qam256 (ss=92 snq=95 seq=100)
+TSID: 0x2B62
+PROGRAM 8242: 0
+PROGRAM 8243: 0
+PROGRAM 8244: 0 (encrypted)
+SCANNING: 447000000 (us-irc:61, us-cable:61)
+LOCK: qam256 (ss=92 snq=92 seq=100)
+TSID: 0x2B61
+PROGRAM 5074: 0 (encrypted)
+PROGRAM 5075: 0 (encrypted)
+SCANNING: 441000000 (us-irc:60, us-cable:60)
+LOCK: qam256 (ss=85 snq=76 seq=100)
+TSID: 0x2B60
+PROGRAM 1401: 0 (encrypted)
+PROGRAM 1402: 0 (encrypted)
+PROGRAM 1403: 0 (encrypted)
+PROGRAM 1404: 0 (encrypted)
+PROGRAM 1405: 0 (encrypted)
+PROGRAM 1406: 0 (encrypted)
+PROGRAM 1407: 0 (encrypted)
+PROGRAM 1408: 0 (encrypted)
+PROGRAM 1409: 0 (encrypted)
+PROGRAM 1410: 0 (encrypted)
+PROGRAM 1411: 0 (encrypted)
+PROGRAM 1413: 0 (encrypted)
+PROGRAM 1414: 0 (encrypted)
+SCANNING: 435000000 (us-irc:59, us-cable:59)
+LOCK: qam256 (ss=87 snq=84 seq=100)
+TSID: 0x2B5F
+PROGRAM 1501: 0 (encrypted)
+PROGRAM 1502: 0 (encrypted)
+PROGRAM 1503: 0 (encrypted)
+PROGRAM 1504: 0 (encrypted)
+PROGRAM 1505: 0 (encrypted)
+PROGRAM 1506: 0 (encrypted)
+PROGRAM 1507: 0 (encrypted)
+PROGRAM 1508: 0 (encrypted)
+PROGRAM 1509: 0 (encrypted)
+PROGRAM 1510: 0 (encrypted)
+PROGRAM 1511: 0 (encrypted)
+PROGRAM 1512: 0 (encrypted)
+PROGRAM 1513: 0 (encrypted)
+PROGRAM 1514: 0 (encrypted)
+SCANNING: 429000000 (us-irc:58, us-cable:58)
+LOCK: qam256 (ss=88 snq=93 seq=100)
+TSID: 0x2B5E
+SCANNING: 423000000 (us-irc:57, us-cable:57)
+LOCK: qam256 (ss=87 snq=92 seq=100)
+TSID: 0x2B5D
+PROGRAM 7414: 0 (encrypted)
+PROGRAM 7415: 0 (encrypted)
+PROGRAM 7416: 0 (encrypted)
+PROGRAM 7417: 0 (encrypted)
+PROGRAM 7418: 0 (encrypted)
+PROGRAM 7419: 0
+PROGRAM 7421: 0 (encrypted)
+PROGRAM 7422: 0 (encrypted)
+PROGRAM 7423: 0 (encrypted)
+PROGRAM 7424: 0 (encrypted)
+PROGRAM 7425: 0 (encrypted)
+SCANNING: 417000000 (us-irc:56, us-cable:56)
+LOCK: qam256 (ss=87 snq=92 seq=100)
+TSID: 0x2B5C
+PROGRAM 5070: 0 (encrypted)
+PROGRAM 5071: 0 (encrypted)
+PROGRAM 5072: 0 (encrypted)
+SCANNING: 411000000 (us-irc:55, us-cable:55)
+LOCK: qam256 (ss=88 snq=93 seq=100)
+TSID: 0x2B5B
+PROGRAM 5058: 0 (encrypted)
+PROGRAM 5059: 0 (encrypted)
+PROGRAM 5060: 0 (encrypted)
+SCANNING: 405000000 (us-irc:54, us-cable:54)
+LOCK: qam256 (ss=89 snq=91 seq=100)
+TSID: 0x2B52
+PROGRAM 5052: 0 (encrypted)
+PROGRAM 5053: 0 (encrypted)
+PROGRAM 5054: 0 (encrypted)
+SCANNING: 399000000 (us-irc:53, us-cable:53)
+LOCK: qam256 (ss=88 snq=92 seq=100)
+TSID: 0x2B51
+PROGRAM 5046: 0 (encrypted)
+PROGRAM 5047: 0 (encrypted)
+PROGRAM 5048: 0 (encrypted)
+SCANNING: 393000000 (us-irc:52, us-cable:52)
+LOCK: qam256 (ss=90 snq=97 seq=100)
+TSID: 0x2B50
+PROGRAM 5043: 0 (encrypted)
+PROGRAM 5044: 0 (encrypted)
+PROGRAM 5045: 0 (encrypted)
+SCANNING: 387000000 (us-irc:51, us-cable:51)
+LOCK: qam256 (ss=91 snq=98 seq=100)
+TSID: 0x2B4F
+PROGRAM 5031: 0 (encrypted)
+PROGRAM 5032: 0 (encrypted)
+PROGRAM 5033: 0 (encrypted)
+SCANNING: 381000000 (us-irc:50, us-cable:50)
+LOCK: qam256 (ss=91 snq=97 seq=100)
+TSID: 0x2810
+PROGRAM 1: 202.1 KTVU
+PROGRAM 2: 204.1 KRON
+PROGRAM 3: 205.1 KPIX
+PROGRAM 4: 207.1 KGO
+PROGRAM 5: 209.1 KQED
+PROGRAM 6: 214.1 KDTV
+PROGRAM 7: 220.1 KOFY
+PROGRAM 8: 26.1 KTSF
+PROGRAM 9: 42.1 KTNC
+PROGRAM 10: 244.1 KBCW
+SCANNING: 375000000 (us-irc:49, us-cable:49)
+LOCK: qam256 (ss=92 snq=98 seq=100)
+TSID: 0x280F
+PROGRAM 1: 0 (encrypted)
+PROGRAM 2: 0 (encrypted)
+PROGRAM 3: 0 (encrypted)
+PROGRAM 4: 0
+PROGRAM 6: 0 (encrypted)
+PROGRAM 7: 0
+PROGRAM 8: 0 (encrypted)
+PROGRAM 9: 0 (encrypted)
+PROGRAM 10: 0 (encrypted)
+PROGRAM 11: 0 (encrypted)
+PROGRAM 12: 0 (encrypted)
+PROGRAM 13: 0 (encrypted)
+PROGRAM 14: 0 (encrypted)
+PROGRAM 15: 0 (encrypted)
+PROGRAM 16: 0 (encrypted)
+PROGRAM 17: 0 (encrypted)
+PROGRAM 18: 0 (encrypted)
+PROGRAM 19: 0 (encrypted)
+PROGRAM 20: 0 (encrypted)
+PROGRAM 22: 0 (encrypted)
+PROGRAM 23: 0 (encrypted)
+PROGRAM 24: 0 (encrypted)
+PROGRAM 25: 0 (encrypted)
+PROGRAM 26: 0 (encrypted)
+PROGRAM 27: 0 (encrypted)
+PROGRAM 28: 0 (encrypted)
+PROGRAM 29: 0 (encrypted)
+PROGRAM 30: 0 (encrypted)
+PROGRAM 31: 0 (encrypted)
+PROGRAM 32: 0 (encrypted)
+PROGRAM 33: 0 (encrypted)
+PROGRAM 34: 0 (encrypted)
+PROGRAM 35: 0 (encrypted)
+PROGRAM 36: 0 (encrypted)
+PROGRAM 37: 0 (encrypted)
+PROGRAM 38: 0 (encrypted)
+PROGRAM 39: 0 (encrypted)
+PROGRAM 40: 0 (encrypted)
+PROGRAM 41: 0 (encrypted)
+PROGRAM 42: 0 (encrypted)
+PROGRAM 43: 0 (encrypted)
+PROGRAM 44: 0 (encrypted)
+PROGRAM 45: 0 (encrypted)
+PROGRAM 46: 0 (encrypted)
+PROGRAM 47: 0 (encrypted)
+PROGRAM 48: 0 (encrypted)
+PROGRAM 49: 0 (encrypted)
+PROGRAM 50: 0 (encrypted)
+PROGRAM 51: 0 (encrypted)
+PROGRAM 53: 0 (encrypted)
+PROGRAM 54: 0 (encrypted)
+PROGRAM 55: 0 (encrypted)
+PROGRAM 59: 0 (encrypted)
+PROGRAM 7127: 0 (encrypted)
+SCANNING: 369000000 (us-irc:48, us-cable:48)
+LOCK: qam256 (ss=91 snq=95 seq=100)
+TSID: 0x2B83
+PROGRAM 5034: 0 (encrypted)
+PROGRAM 5035: 0 (encrypted)
+PROGRAM 5036: 0 (encrypted)
+SCANNING: 363000000 (us-irc:47, us-cable:47)
+LOCK: qam256 (ss=91 snq=96 seq=100)
+TSID: 0x2B82
+PROGRAM 1: 0 (encrypted)
+PROGRAM 2: 0 (encrypted)
+PROGRAM 3: 0 (encrypted)
+SCANNING: 357000000 (us-irc:46, us-cable:46)
+LOCK: qam256 (ss=94 snq=95 seq=100)
+TSID: 0x2B4E
+PROGRAM 5061: 0 (encrypted)
+PROGRAM 5062: 0 (encrypted)
+PROGRAM 5063: 0 (encrypted)
+SCANNING: 351000000 (us-irc:45, us-cable:45)
+LOCK: qam256 (ss=93 snq=92 seq=100)
+TSID: 0x2B4D
+PROGRAM 5064: 0 (encrypted)
+PROGRAM 5065: 0 (encrypted)
+PROGRAM 5066: 0 (encrypted)
+SCANNING: 345000000 (us-irc:44, us-cable:44)
+LOCK: qam256 (ss=94 snq=93 seq=100)
+TSID: 0x2B9E
+PROGRAM 1: 0
+PROGRAM 2: 0
+PROGRAM 3: 0 (encrypted)
+PROGRAM 4: 0 (encrypted)
+PROGRAM 5: 0 (encrypted)
+PROGRAM 6: 0 (encrypted)
+PROGRAM 7: 0 (encrypted)
+PROGRAM 8: 0 (encrypted)
+PROGRAM 9: 0
+PROGRAM 10: 0
+PROGRAM 11: 0 (encrypted)
+PROGRAM 12: 0 (encrypted)
+SCANNING: 339000000 (us-irc:43, us-cable:43)
+LOCK: qam256 (ss=95 snq=95 seq=100)
+TSID: 0x2B9D
+PROGRAM 1: 0 (encrypted)
+PROGRAM 2: 0 (encrypted)
+PROGRAM 3: 0 (encrypted)
+PROGRAM 4: 0 (encrypted)
+PROGRAM 5: 0 (encrypted)
+PROGRAM 6: 0 (encrypted)
+PROGRAM 7: 0 (encrypted)
+PROGRAM 8: 0 (encrypted)
+PROGRAM 9: 0 (encrypted)
+PROGRAM 10: 0 (encrypted)
+PROGRAM 11: 0 (encrypted)
+PROGRAM 12: 0 (encrypted)
+SCANNING: 333000000 (us-irc:42, us-cable:42)
+LOCK: qam256 (ss=95 snq=93 seq=100)
+TSID: 0x2ADD
+PROGRAM 1: 0 (encrypted)
+PROGRAM 2: 0 (encrypted)
+PROGRAM 3: 0
+PROGRAM 4: 0 (encrypted)
+PROGRAM 5: 0 (encrypted)
+PROGRAM 6: 0 (encrypted)
+PROGRAM 7: 0 (encrypted)
+PROGRAM 8: 0 (encrypted)
+PROGRAM 9: 0 (encrypted)
+PROGRAM 10: 0 (encrypted)
+PROGRAM 11: 0 (encrypted)
+PROGRAM 12: 0 (encrypted)
+SCANNING: 327000000 (us-irc:41, us-cable:41)
+LOCK: qam256 (ss=95 snq=98 seq=100)
+TSID: 0x2ADC
+PROGRAM 1: 0 (encrypted)
+PROGRAM 2: 0 (encrypted)
+SCANNING: 321000000 (us-irc:40, us-cable:40)
+LOCK: qam256 (ss=96 snq=97 seq=100)
+TSID: 0x2B5A
+PROGRAM 1: 0 (encrypted)
+PROGRAM 2: 0 (encrypted)
+SCANNING: 315000000 (us-irc:39, us-cable:39)
+LOCK: qam256 (ss=97 snq=95 seq=100)
+TSID: 0x2B59
+PROGRAM 8458: 0 (encrypted)
+PROGRAM 8459: 0 (encrypted)
+SCANNING: 309000000 (us-irc:38, us-cable:38)
+LOCK: qam256 (ss=97 snq=98 seq=100)
+TSID: 0x2B58
+PROGRAM 8602: 0 (encrypted)
+PROGRAM 8603: 0 (encrypted)
+SCANNING: 303000000 (us-irc:37, us-cable:37)
+LOCK: qam256 (ss=97 snq=95 seq=100)
+TSID: 0x2B57
+PROGRAM 5097: 0
+PROGRAM 5098: 0 (encrypted)
+PROGRAM 5099: 0 (encrypted)
+SCANNING: 297000000 (us-irc:36, us-cable:36)
+LOCK: qam256 (ss=96 snq=93 seq=100)
+TSID: 0x2B56
+PROGRAM 5085: 0 (encrypted)
+PROGRAM 5086: 0 (encrypted)
+PROGRAM 5087: 0 (encrypted)
+SCANNING: 291000000 (us-irc:35, us-cable:35)
+LOCK: qam256 (ss=95 snq=98 seq=100)
+TSID: 0x2B55
+PROGRAM 8099: 0 (encrypted)
+PROGRAM 8101: 0 (encrypted)
+SCANNING: 285000000 (us-irc:34, us-cable:34)
+LOCK: qam256 (ss=95 snq=93 seq=100)
+TSID: 0x281B
+PROGRAM 5016: 0 (encrypted)
+PROGRAM 5017: 0 (encrypted)
+PROGRAM 5018: 0 (encrypted)
+SCANNING: 279000000 (us-irc:33, us-cable:33)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 277750000 (us-hrc:33)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 273000000 (us-irc:32, us-cable:32)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 271750000 (us-hrc:32)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 267000000 (us-irc:31, us-cable:31)
+LOCK: qam256 (ss=93 snq=85 seq=100)
+TSID: 0x280D
+PROGRAM 1: 0 (encrypted)
+PROGRAM 2: 0 (encrypted)
+PROGRAM 3: 0 (encrypted)
+SCANNING: 261000000 (us-irc:30, us-cable:30)
+LOCK: none (ss=98 snq=0 seq=0)
+SCANNING: 259750000 (us-hrc:30)
+LOCK: none (ss=97 snq=0 seq=0)
+SCANNING: 255000000 (us-irc:29, us-cable:29)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 253750000 (us-hrc:29)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 249000000 (us-irc:28, us-cable:28)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 247750000 (us-hrc:28)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 243000000 (us-irc:27, us-cable:27)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 241750000 (us-hrc:27)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 237000000 (us-irc:26, us-cable:26)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 235750000 (us-hrc:26)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 231000000 (us-irc:25, us-cable:25)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 229750000 (us-hrc:25)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 225000000 (us-irc:24, us-cable:24)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 223750000 (us-hrc:24)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 219000000 (us-irc:23, us-cable:23)
+LOCK: none (ss=98 snq=0 seq=0)
+SCANNING: 217750000 (us-hrc:23)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 213000000 (us-irc:13, us-cable:13)
+LOCK: none (ss=96 snq=0 seq=0)
+SCANNING: 211750000 (us-hrc:13)
+LOCK: none (ss=95 snq=0 seq=0)
+SCANNING: 207000000 (us-irc:12, us-cable:12)
+LOCK: none (ss=99 snq=0 seq=0)
+SCANNING: 205750000 (us-hrc:12)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 201000000 (us-irc:11, us-cable:11)
+LOCK: none (ss=99 snq=0 seq=0)
+SCANNING: 199750000 (us-hrc:11)
+LOCK: none (ss=99 snq=0 seq=0)
+SCANNING: 195000000 (us-irc:10, us-cable:10)
+LOCK: none (ss=98 snq=0 seq=0)
+SCANNING: 193750000 (us-hrc:10)
+LOCK: none (ss=98 snq=0 seq=0)
+SCANNING: 189000000 (us-irc:9, us-cable:9)
+LOCK: none (ss=93 snq=0 seq=0)
+SCANNING: 187750000 (us-hrc:9)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 183000000 (us-irc:8, us-cable:8)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 181750000 (us-hrc:8)
+LOCK: none (ss=96 snq=0 seq=0)
+SCANNING: 177000000 (us-irc:7, us-cable:7)
+LOCK: none (ss=99 snq=0 seq=0)
+SCANNING: 175750000 (us-hrc:7)
+LOCK: none (ss=99 snq=0 seq=0)
+SCANNING: 171000000 (us-irc:22, us-cable:22)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 169750000 (us-hrc:22)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 165000000 (us-irc:21, us-cable:21)
+LOCK: qam256 (ss=93 snq=88 seq=100)
+TSID: 0x2AD6
+PROGRAM 8152: 0
+PROGRAM 8153: 0
+PROGRAM 8154: 0
+SCANNING: 159000000 (us-irc:20, us-cable:20)
+LOCK: none (ss=93 snq=0 seq=0)
+SCANNING: 157750000 (us-hrc:20)
+LOCK: none (ss=99 snq=0 seq=0)
+SCANNING: 153000000 (us-irc:19, us-cable:19)
+LOCK: none (ss=96 snq=0 seq=0)
+SCANNING: 151750000 (us-hrc:19)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 147000000 (us-irc:18, us-cable:18)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 145750000 (us-hrc:18)
+LOCK: none (ss=99 snq=0 seq=0)
+SCANNING: 141000000 (us-irc:17, us-cable:17)
+LOCK: qam256 (ss=93 snq=85 seq=100)
+TSID: 0x2C34
+PROGRAM 8584: 60.1 KCSM
+PROGRAM 8585: 60.2 KCSMMHz
+PROGRAM 8586: 60.3 Jazz-TV
+SCANNING: 135000000 (us-irc:16, us-cable:16)
+LOCK: none (ss=86 snq=0 seq=0)
+SCANNING: 133750000 (us-hrc:16)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 129000000 (us-irc:15, us-cable:15)
+LOCK: none (ss=96 snq=0 seq=0)
+SCANNING: 127750000 (us-hrc:15)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 123000000 (us-irc:14, us-cable:14)
+LOCK: none (ss=97 snq=0 seq=0)
+SCANNING: 121750000 (us-hrc:14)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 117000000 (us-irc:99, us-cable:99)
+LOCK: qam256 (ss=93 snq=80 seq=100)
+TSID: 0x2A22
+PROGRAM 13: 0 (encrypted)
+PROGRAM 15: 0 (encrypted)
+PROGRAM 40: 0
+SCANNING: 111000000 (us-irc:98, us-cable:98)
+LOCK: qam256 (ss=92 snq=82 seq=100)
+TSID: 0x2A21
+PROGRAM 1: 0 (encrypted)
+PROGRAM 2: 0 (encrypted)
+PROGRAM 3: 0 (encrypted)
+PROGRAM 4: 0 (encrypted)
+PROGRAM 5: 0 (encrypted)
+PROGRAM 6: 0 (encrypted)
+PROGRAM 7: 0 (encrypted)
+PROGRAM 9: 0 (encrypted)
+PROGRAM 10: 0 (encrypted)
+PROGRAM 11: 0
+PROGRAM 12: 0
+PROGRAM 13: 0
+PROGRAM 71: 0 (encrypted)
+SCANNING: 105000000 (us-irc:97, us-cable:97)
+LOCK: qam64 (ss=93 snq=100 seq=100)
+TSID: 0x2A90
+PROGRAM 2: 0 (encrypted)
+PROGRAM 3: 0 (encrypted)
+PROGRAM 8551: 0
+PROGRAM 8552: 0
+PROGRAM 8553: 0 (encrypted)
+SCANNING: 99000000 (us-irc:96, us-cable:96)
+LOCK: qam256 (ss=92 snq=69 seq=100)
+TSID: 0x29B9
+SCANNING: 93000000 (us-irc:95, us-cable:95)
+LOCK: qam256 (ss=93 snq=78 seq=100)
+TSID: 0x29B8
+PROGRAM 1: 0
+PROGRAM 4: 0
+PROGRAM 5: 0 (encrypted)
+PROGRAM 7: 0 (encrypted)
+PROGRAM 10: 0
+PROGRAM 11: 0
+PROGRAM 13: 0
+PROGRAM 14: 0
+PROGRAM 15: 0
+PROGRAM 16: 0
+PROGRAM 17: 0
+PROGRAM 18: 0
+PROGRAM 19: 0
+PROGRAM 20: 0
+PROGRAM 21: 0
+PROGRAM 22: 0
+PROGRAM 23: 0
+PROGRAM 24: 0
+PROGRAM 25: 0
+PROGRAM 26: 0
+PROGRAM 27: 0
+PROGRAM 28: 0
+PROGRAM 29: 0
+PROGRAM 30: 0
+PROGRAM 31: 0
+PROGRAM 32: 0
+PROGRAM 33: 0
+PROGRAM 34: 0
+PROGRAM 35: 0
+PROGRAM 36: 0
+PROGRAM 37: 0
+PROGRAM 38: 0
+PROGRAM 39: 0
+SCANNING: 87000000 (us-irc:6)
+LOCK: none (ss=83 snq=0 seq=0)
+SCANNING: 85750000 (us-hrc:6)
+LOCK: none (ss=88 snq=0 seq=0)
+SCANNING: 85000000 (us-cable:6)
+LOCK: none (ss=94 snq=0 seq=0)
+SCANNING: 81000000 (us-irc:5)
+LOCK: none (ss=96 snq=0 seq=0)
+SCANNING: 79750000 (us-hrc:5)
+LOCK: none (ss=97 snq=0 seq=0)
+SCANNING: 79000000 (us-cable:5)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 69000000 (us-irc:4, us-cable:4)
+LOCK: none (ss=98 snq=0 seq=0)
+SCANNING: 67750000 (us-hrc:4)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 63000000 (us-irc:3, us-cable:3)
+LOCK: none (ss=97 snq=0 seq=0)
+SCANNING: 61750000 (us-hrc:3)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 57000000 (us-irc:2, us-cable:2)
+LOCK: none (ss=93 snq=0 seq=0)
+SCANNING: 55750000 (us-hrc:2)
+LOCK: none (ss=95 snq=0 seq=0)
