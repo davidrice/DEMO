@@ -36,16 +36,23 @@ span.boolean {
 	background-size: 810px 495px;
 	overflow:hidden;
 }
+#middle video {
+	position:absolute;
+	z-index: -1;
+	width: 790px;
+	height: 475px;
+}
 #channel {
+	z-index: 0;
 	width:120px;
 	height: 100px;
 	float:right;
 	text-align:right;
 }
 #captions {
+	z-index:0;
 	width:830px;
 	height: 100px;
-	position:relative;
 	margin-top:375px;
 	overflow:auto;	
 }

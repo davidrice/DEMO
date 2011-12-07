@@ -1,0 +1,195 @@
+SCANNING: 803000000 (us-bcast:69)
+LOCK: none (ss=62 snq=0 seq=0)
+SCANNING: 797000000 (us-bcast:68)
+LOCK: none (ss=61 snq=0 seq=0)
+SCANNING: 791000000 (us-bcast:67)
+LOCK: none (ss=62 snq=0 seq=0)
+SCANNING: 785000000 (us-bcast:66)
+LOCK: none (ss=60 snq=0 seq=0)
+SCANNING: 779000000 (us-bcast:65)
+LOCK: none (ss=62 snq=0 seq=0)
+SCANNING: 773000000 (us-bcast:64)
+LOCK: none (ss=68 snq=0 seq=0)
+SCANNING: 767000000 (us-bcast:63)
+LOCK: none (ss=67 snq=0 seq=0)
+SCANNING: 761000000 (us-bcast:62)
+LOCK: none (ss=69 snq=0 seq=0)
+SCANNING: 755000000 (us-bcast:61)
+LOCK: none (ss=80 snq=0 seq=0)
+SCANNING: 749000000 (us-bcast:60)
+LOCK: none (ss=84 snq=0 seq=0)
+SCANNING: 743000000 (us-bcast:59)
+LOCK: none (ss=76 snq=0 seq=0)
+SCANNING: 737000000 (us-bcast:58)
+LOCK: none (ss=77 snq=0 seq=0)
+SCANNING: 731000000 (us-bcast:57)
+LOCK: none (ss=77 snq=0 seq=0)
+SCANNING: 725000000 (us-bcast:56)
+LOCK: none (ss=80 snq=0 seq=0)
+SCANNING: 719000000 (us-bcast:55)
+LOCK: none (ss=78 snq=0 seq=0)
+SCANNING: 713000000 (us-bcast:54)
+LOCK: none (ss=77 snq=0 seq=0)
+SCANNING: 707000000 (us-bcast:53)
+LOCK: none (ss=81 snq=0 seq=0)
+SCANNING: 701000000 (us-bcast:52)
+LOCK: none (ss=82 snq=0 seq=0)
+SCANNING: 695000000 (us-bcast:51)
+LOCK: none (ss=81 snq=0 seq=0)
+SCANNING: 689000000 (us-bcast:50)
+LOCK: none (ss=94 snq=0 seq=0)
+SCANNING: 683000000 (us-bcast:49)
+LOCK: none (ss=92 snq=0 seq=0)
+SCANNING: 677000000 (us-bcast:48)
+LOCK: none (ss=85 snq=0 seq=0)
+SCANNING: 671000000 (us-bcast:47)
+LOCK: 8vsb (ss=97 snq=41 seq=100)
+SCANNING: 665000000 (us-bcast:46)
+LOCK: none (ss=79 snq=0 seq=0)
+SCANNING: 659000000 (us-bcast:45)
+LOCK: 8vsb (ss=100 snq=62 seq=100)
+TSID: 0x018B
+PROGRAM 1: 44.1 KBCW-DT
+SCANNING: 653000000 (us-bcast:44)
+LOCK: 8vsb (ss=100 snq=54 seq=100)
+TSID: 0x0141
+PROGRAM 3: 2.1 KTVU-HD
+PROGRAM 4: 2.2 KTVU-SD
+SCANNING: 647000000 (us-bcast:43)
+LOCK: 8vsb (ss=100 snq=50 seq=100)
+TSID: 0x019B
+PROGRAM 3: 60.1 KCSM
+PROGRAM 4: 60.2 KCSMMHz
+PROGRAM 5: 60.3 Jazz-TV
+SCANNING: 641000000 (us-bcast:42)
+LOCK: none (ss=88 snq=0 seq=0)
+SCANNING: 635000000 (us-bcast:41)
+LOCK: 8vsb (ss=100 snq=62 seq=100)
+TSID: 0x0195
+PROGRAM 3: 65.1 ION
+PROGRAM 4: 65.2 qubo
+PROGRAM 5: 65.3 IONLife
+SCANNING: 629000000 (us-bcast:40)
+LOCK: none (ss=97 snq=0 seq=0)
+SCANNING: 623000000 (us-bcast:39)
+LOCK: 8vsb (ss=100 snq=50 seq=100)
+TSID: 0x0189
+PROGRAM 1: 38.1 KCNS
+PROGRAM 2: 38.2 KCNS-2
+PROGRAM 3: 38.3 KCNS-3
+PROGRAM 4: 38.4 KCNS-4
+SCANNING: 617000000 (us-bcast:38)
+LOCK: 8vsb (ss=100 snq=61 seq=100)
+TSID: 0x0179
+PROGRAM 3: 4.2 KRON-SD
+PROGRAM 4: 4.1 KRON-HD
+SCANNING: 611000000 (us-bcast:37)
+LOCK: none (ss=91 snq=0 seq=0)
+SCANNING: 605000000 (us-bcast:36)
+LOCK: none (ss=100 snq=0 seq=0)
+SCANNING: 599000000 (us-bcast:35)
+LOCK: none (ss=96 snq=0 seq=0)
+SCANNING: 593000000 (us-bcast:34)
+LOCK: 8vsb (ss=100 snq=71 seq=100)
+TSID: 0x01B1
+PROGRAM 1: 66.1 KFSF-DT
+PROGRAM 2: 66.2 KDTV-DT
+SCANNING: 587000000 (us-bcast:33)
+LOCK: 8vsb (ss=100 snq=61 seq=100)
+TSID: 0x0187
+PROGRAM 3: 32.1 KMTP-DT
+PROGRAM 4: 32.2 WorldCh
+PROGRAM 5: 32.4 WTV
+PROGRAM 6: 32.5 NTD
+SCANNING: 581000000 (us-bcast:32)
+LOCK: none (ss=94 snq=0 seq=0)
+SCANNING: 575000000 (us-bcast:31)
+LOCK: none (ss=91 snq=0 seq=0)
+SCANNING: 569000000 (us-bcast:30)
+LOCK: 8vsb (ss=100 snq=67 seq=100)
+TSID: 0x017F
+PROGRAM 1: 9.1 KQED-HD
+PROGRAM 2: 9.2 KQEH-DT
+PROGRAM 3: 9.3 WORLD
+PROGRAM 8: 0 (control)
+PROGRAM 9: 0 (control)
+SCANNING: 563000000 (us-bcast:29)
+LOCK: 8vsb (ss=100 snq=77 seq=100)
+TSID: 0x017B
+PROGRAM 1: 5.1 KPIX-DT
+SCANNING: 557000000 (us-bcast:28)
+LOCK: 8vsb (ss=100 snq=41 seq=100)
+SCANNING: 551000000 (us-bcast:27)
+LOCK: 8vsb (ss=100 snq=86 seq=100)
+TSID: 0x0185
+PROGRAM 3: 26.1 KTSF-D1
+PROGRAM 4: 26.2 KTSF-D2
+PROGRAM 5: 26.3 KTSF-D3
+PROGRAM 6: 26.4 KTSF-D4
+PROGRAM 7: 26.5 KTSF-D5
+PROGRAM 8: 26.6 KTSF-D6
+SCANNING: 545000000 (us-bcast:26)
+LOCK: none (ss=97 snq=0 seq=0)
+SCANNING: 539000000 (us-bcast:25)
+LOCK: none (ss=94 snq=0 seq=0)
+SCANNING: 533000000 (us-bcast:24)
+LOCK: none (ss=94 snq=0 seq=0)
+SCANNING: 527000000 (us-bcast:23)
+LOCK: none (ss=99 snq=0 seq=0)
+SCANNING: 521000000 (us-bcast:22)
+LOCK: none (ss=89 snq=0 seq=0)
+SCANNING: 515000000 (us-bcast:21)
+LOCK: none (ss=91 snq=0 seq=0)
+SCANNING: 509000000 (us-bcast:20)
+LOCK: none (ss=94 snq=0 seq=0)
+SCANNING: 503000000 (us-bcast:19)
+LOCK: 8vsb (ss=100 snq=92 seq=100)
+TSID: 0x0183
+PROGRAM 3: 20.1 KOFY-HD
+PROGRAM 5: 20.2 MeTV
+PROGRAM 6: 20.4 Azteca
+SCANNING: 497000000 (us-bcast:18)
+LOCK: none (ss=94 snq=0 seq=0)
+SCANNING: 491000000 (us-bcast:17)
+LOCK: none (ss=94 snq=0 seq=0)
+SCANNING: 485000000 (us-bcast:16)
+LOCK: none (ss=93 snq=0 seq=0)
+SCANNING: 479000000 (us-bcast:15)
+LOCK: none (ss=90 snq=0 seq=0)
+SCANNING: 473000000 (us-bcast:14)
+LOCK: none (ss=92 snq=0 seq=0)
+SCANNING: 213000000 (us-bcast:13)
+LOCK: 8vsb (ss=77 snq=36 seq=100)
+SCANNING: 207000000 (us-bcast:12)
+LOCK: 8vsb (ss=100 snq=88 seq=100)
+TSID: 0x018D
+PROGRAM 3: 11.1 KNTV HD
+PROGRAM 4: 11.2 CA-NS  
+PROGRAM 5: 11.3 US     
+SCANNING: 201000000 (us-bcast:11)
+LOCK: none (ss=67 snq=0 seq=0)
+SCANNING: 195000000 (us-bcast:10)
+LOCK: none (ss=44 snq=0 seq=0)
+SCANNING: 189000000 (us-bcast:9)
+LOCK: none (ss=44 snq=0 seq=0)
+SCANNING: 183000000 (us-bcast:8)
+LOCK: 8vsb (ss=79 snq=64 seq=100)
+TSID: 0x0163
+PROGRAM 1: 8.1 KSBW-TV
+PROGRAM 2: 8.2 CC ABC
+SCANNING: 177000000 (us-bcast:7)
+LOCK: 8vsb (ss=100 snq=85 seq=100)
+TSID: 0x017D
+PROGRAM 3: 7.1 KGO-HD
+PROGRAM 4: 7.2 LIVWELL
+PROGRAM 5: 7.3 LWSD
+SCANNING: 85000000 (us-bcast:6)
+LOCK: none (ss=81 snq=0 seq=0)
+SCANNING: 79000000 (us-bcast:5)
+LOCK: none (ss=62 snq=0 seq=0)
+SCANNING: 69000000 (us-bcast:4)
+LOCK: none (ss=62 snq=0 seq=0)
+SCANNING: 63000000 (us-bcast:3)
+LOCK: none (ss=66 snq=0 seq=0)
+SCANNING: 57000000 (us-bcast:2)
+LOCK: none (ss=65 snq=0 seq=0)

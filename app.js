@@ -1,6 +1,6 @@
 var fs = require('fs');
 var jade = require('jade');
-var event = require('events');
+var events = require('events');
 var express = require('express');
 var app = express.createServer();
 var socket = require('socket.io').listen(app);
@@ -9,13 +9,33 @@ var config = {
 		bin: 'hdhomerun_config'
 	},
 	channel: {
-		txt: 'cable.txt'
+		txt: 'channels.txt'
 	}	
 };
 var tv = {};
+tv.emmitter = new events.EventEmitter();
 
 var spawn = require('child_process').spawn;
 
+tv.encoder = {
+	encode: function(stream) {
+		var outputFileName = stream.split('/')[2]+'.mp4';
+		var outputPath = 'public/recordings/encoded/'+outputFileName;
+		var f = spawn('ffmpeg', ['-i',stream,'-s','810x494','-r','30000/1001','-b','200k','-bt','240k','-vcodec','libx264','-vpre','ipod640','-acodec','libfaac','-ac','2','-ar','48000','-ab','192k','-y',outputPath]);	
+		f.stdout.setEncoding('utf8');
+		f.stdout.on('data', function(data) {
+			console.log(data);
+		});
+		f.stderr.setEncoding('utf8');
+		f.stderr.on('data', function(error) {
+			console.log(error);
+		});
+		f.on('exit', function(code, signal) {
+			console.log(code);	
+			tv.emmitter.emit('encoded', {video:outputFileName});
+		});
+	}
+}
 tv.tuner = {
 	init: function(){
 		var status = spawn(config.hdhomerun.bin, ['discover']);
@@ -37,8 +57,8 @@ tv.tuner = {
 			if(code==0){
 				var channelFile = fs.readFile(config.channel.txt, 'utf8', function(err, data) {
 					if(err) throw err;
-					var frequencyPattern = /SCANNING: \w.* (\(.*, us-cable:(\d.*)\))/
-					var signalPattern = /LOCK: qam256 \(ss=(\d.*) snq=(\d.*) seq=(\d.*)\)/;
+					var frequencyPattern = /^SCANNING:.*:(\d.*)\)$/
+					var signalPattern = /LOCK: \w.* \(ss=(\d.*) snq=(\d.*) seq=(\d.*)\)/;
 					var programPattern = /PROGRAM (\d.*): (\w.*\.\w.*)/
 					var lines = data.split('\n');
 					var channelInfo;
@@ -49,7 +69,7 @@ tv.tuner = {
 						var signal = element.match(signalPattern);
 						var program = element.match(programPattern);
 						if(frequency){
-							channelInfo = parseInt(frequency[2]);
+							channelInfo = parseInt(frequency[1]);
 						}
 						if(signal){
 							signalStrength = parseInt(signal[1]);
@@ -118,6 +138,8 @@ tv.tuner = {
 			s.on('exit', function(code, signal) {
 				console.log('save exited ' + code);
 				console.log(signal);
+				console.log('transcoding should start now ' + stream);
+				tv.encoder.encode(stream);
 			});
 	}
 	else {
@@ -145,11 +167,18 @@ tv.tuner = {
 tv.tuner.init();
 socket.set('log level', 1);
 socket.sockets.on('connection', function(client) {
+	tv.emmitter.on('encoded', function(data) {
+		client.emit('encoded', {encoded:data});
+	});
 	console.log('connection');
+	client.on('encoded', function() {
+		client.emit('encoded', {encoded:true});
+	});
 	client.emit('channel', {channel:tv.tuner.channels[tv.tuner.channel]});
 	client.on('record', function(recording) {
 		if(!tv.tuner.status.recording){
-			var stream = tv.tuner.channels[tv.tuner.channel].callsign + '.mpg';
+			var date = new Date().toJSON();
+			var stream = 'public/recordings/' + tv.tuner.channels[tv.tuner.channel].callsign + '-' + date + '.mpg';
 			tv.tuner.save(stream);
 		}
 		else {

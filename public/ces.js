@@ -1,11 +1,18 @@
+var YYY;
 YUI().use('resize', 'charts', 'overlay', 'node', 'event', 'json', function(Y) {
+	YYY = Y;
 	var dictionary = {};
 	var booleans = ['YES','yes','NO','no'];
 	var colors = ['RED','red','GREEN','green','BLUE','blue','YELLOW','yellow','WHITE', 'white','BLACK','black','GRAY', 'gray', 'SILVER', 'silver', 'PURPLE', 'purple','MAROON','maroon','FUCHSIA','fuchsia','LIME','lime','OLIVE','olive','NAVY','navy','TEAL','teal','AQUA','aqua'];
 	var stopWords = ['AND', 'and', 'THE','the','IS','is','AT','at','WHICH','which','ON','on','THEY','they','THEY\'RE','they\'re'];
-	var socket = io.connect('http://atom',{port:9999});
+	var socket = io.connect('http://letnewsblow.corp.yahoo.com',{port:9999});
 	socket.on('connection', function(data) {
 		console.log('connection');
+	});
+	socket.on('encoded', function(data) {
+		console.log(data);
+		var video = data.encoded.video;
+		Y.one('video#video').set('src','recordings/encoded/' + video);
 	});
 	socket.on('channel', function(data) {
 		console.log(data);
@@ -131,6 +138,7 @@ YUI().use('resize', 'charts', 'overlay', 'node', 'event', 'json', function(Y) {
 	Y.one('body').on('keypress',function(e) {
 		var direction;
 		var action;
+		console.log(e.keyCode);
 		switch(e.keyCode){
 			case 107:
 				action = 'channel';
@@ -140,6 +148,9 @@ YUI().use('resize', 'charts', 'overlay', 'node', 'event', 'json', function(Y) {
 				action = 'channel';
 				direction = 'down';
 				break;
+			case 112:
+				action = 'play';
+				break;
 			case 114:
 				action = 'record';
 				break;
@@ -147,6 +158,15 @@ YUI().use('resize', 'charts', 'overlay', 'node', 'event', 'json', function(Y) {
 		if(action=='channel'){
 			console.log('changing channel ' + direction);
 			socket.emit('channelChange', {direction: direction});
+		}
+		if(action=='play'){
+			var video = document.getElementById('video');
+			if(video.paused){
+				video.play();
+			}
+			else{
+				video.pause();
+			}
 		}
 		if(action=='record'){
 			console.log(recording);
