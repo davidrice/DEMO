@@ -5,7 +5,7 @@ YUI().use('resize', 'charts', 'overlay', 'node', 'event', 'json', function(Y) {
 	var booleans = ['YES','yes','NO','no'];
 	var colors = ['RED','red','GREEN','green','BLUE','blue','YELLOW','yellow','WHITE', 'white','BLACK','black','GRAY', 'gray', 'SILVER', 'silver', 'PURPLE', 'purple','MAROON','maroon','FUCHSIA','fuchsia','LIME','lime','OLIVE','olive','NAVY','navy','TEAL','teal','AQUA','aqua'];
 	var stopWords = ['AND', 'and', 'THE','the','IS','is','AT','at','WHICH','which','ON','on','THEY','they','THEY\'RE','they\'re'];
-	var socket = io.connect('http://letnewsblow.corp.yahoo.com',{port:9999});
+	var socket = io.connect('',{port:9999});
 	socket.on('connection', function(data) {
 		console.log('connection');
 	});
